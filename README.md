@@ -1,0 +1,3 @@
+[Krypt.co](https://github.com/kryptco/kr) used to "kr enables SSH to authenticate with a key stored in a Krypton (iOS or Android) mobile app". Since it has been aquired by [Akamai](https://www.akamai.com/newsroom/press-release/akamai-technologies-inc-acquires-authentication-technology-from-kryptco) previous installation method ```curl https://krypt.co/kr | sh``` does no longer works since Krypt doesn't longer own this domain. This repo contains Google cache of this scrpit from 9 June 2024 08:06:04 GMT. Please keep in mind that Krypt is no longer maintained.
+
+To use old cached script you can now use: ```curl https://bnowakow.github.io/krypt/kr.sh | sh```
